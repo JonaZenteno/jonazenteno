@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">CODIFICO EN ...</h2>
+<h2 align="left">TECNOLOGIAS EN LAS QUE DESARROLLO</h2>
 
 ###
 
